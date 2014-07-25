@@ -1,0 +1,25 @@
+<name>
+<firstname> Edward </firstname>
+<lastname> Cable </lastname>
+</name>
+
+<dob> 05/15/1984 </dob>
+<educational_qualification> Bachelor's Degree </educational_qualification>
+
+<addresses>
+<address type = "permanent"> 
+<street1> 6777 Lower Lake Rd </street1>
+<city> Crescent City </city>
+<state> California </state>
+<postal_code> 95531 </postal_code>
+<country> USA </country>
+</address>
+
+<address type = "mailing">
+<street1> PO Box 127 </street1>
+<city> Crescent City </city>
+<state> California </state>
+<postal_code> 95531 </postal_code>
+<country> USA </country>
+</address>
+</addresses>

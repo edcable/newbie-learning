@@ -1,0 +1,36 @@
+<xml>
+<loan>
+<basic_details>
+<product_id>BGML</product_id>
+<product_name>BGS Monthly Loan</product_name>
+<currency>USD</currency>
+<loan_purpose>Animal Husbandry</loan_purpose>
+</basic_details>
+
+<loan_terms>
+<interest_rate>.05</interest_rate>
+<interest_type>flat</interest_type>
+<number_installments>12</number_installments>
+<principal_amount>5000</principal_amount>
+</loan_terms>
+
+<charges>
+<charge>
+<id>001</id>
+<shortname>MLC</shortname>
+<name>Monthly Loan Charge</name>
+<type>Periodic</type>
+<amount>5</amount>
+</charge>
+<charge>
+<id>002</id>
+<shortname>OLC</shortname>
+<name>One-Time Loan Charge</name>
+<type>one-time</type>
+<amount>500</amount>
+</charge>
+</charges>
+
+</loan>
+
+</xml>
